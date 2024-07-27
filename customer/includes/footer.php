@@ -111,9 +111,7 @@
 				Dev by Aryan Parmar
 			</div>
 
-			<div class="designby">
-				Design by Mihir Solanki
-			</div>
+			
 		</div>
 	</div>
 </footer>
